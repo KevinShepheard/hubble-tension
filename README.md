@@ -121,9 +121,10 @@ No warranty is provided.
 
 ## Citation
 
-If you use or reference this code, please cite the associated paper (Zenodo DOI forthcoming):
+If you use or reference this code, please cite:
 
-Shepheard, K. (2026). *Disentangling Calibration Bias and Ordered Structure in Type Ia Supernova Residuals.*
+Shepheard, K. (2026). *Disentangling Calibration Bias and Ordered Structure in Type Ia Supernova
+Residuals* (Version 1.0.0) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18164054.svg)](https://doi.org/10.5281/zenodo.18164054). Zenodo. https://doi.org/10.5281/zenodo.18164054
 
 ---
 
