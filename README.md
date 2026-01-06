@@ -6,6 +6,8 @@ This repository contains the **minimal, paper-facing analysis code** used to gen
 An Entropy-Guided Reanalysis of the Hubble Tension**  
 Kevin Shepheard (2026)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18164054.svg)](https://doi.org/10.5281/zenodo.18164054)
+
 The purpose of this code is not to provide a general cosmological inference framework, but to **cleanly, conservatively, and transparently reproduce** the specific empirical results reported in the paper.
 
 ---
